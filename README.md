@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&multiline=true&width=900&size=40&lines=Hi,+I'm+Rossana)](https://git.io/typing-svg)
 
-<h3 align="center">Junior Software Engineer with a background in project management</h3>
+<h3 align="center">Software Engineer with a background in project management</h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
